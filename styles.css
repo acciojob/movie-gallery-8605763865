@@ -1,2 +1,5 @@
-
-/* Your CSS Code here. */
+@media screen and(max-width:768){
+	.container-fluid{
+		
+	}
+}
